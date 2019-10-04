@@ -1,5 +1,4 @@
 import express from "express";
-<<<<<<< HEAD
 import {
   getAllMovies,
   getCreateMovie,
@@ -10,8 +9,6 @@ import {
   deleteMovie,
   searchMovie
 } from "./movieController";
-=======
->>>>>>> 6ff4079fba36adeb21849ee9a105b35312aa400b
 
 const movieRouter = express.Router();
 
